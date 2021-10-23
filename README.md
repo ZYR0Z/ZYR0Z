@@ -16,5 +16,8 @@
 </details>
 
 <details>
-  <summary> ⚡ Last GitHub Activity</summary>
-  
+  <summary>⚡ Last GitHub Activity</summary>
+    <!--START_SECTION:activity-->
+    
+    <!--END_SECTION:activity-->
+</details>
