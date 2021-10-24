@@ -18,11 +18,11 @@
 <details>
   <summary>⚡ Last GitHub Activity</summary>
     <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/ZYR0Z/website2/pull/4) in [ZYR0Z/website2](https://github.com/ZYR0Z/website2) <br>
-2. 💪 Opened PR [#4](https://github.com/ZYR0Z/website2/pull/4) in [ZYR0Z/website2](https://github.com/ZYR0Z/website2) <br>
-3. 🎉 Merged PR [#3](https://github.com/ZYR0Z/website2/pull/3) in [ZYR0Z/website2](https://github.com/ZYR0Z/website2) <br>
-4. 💪 Opened PR [#3](https://github.com/ZYR0Z/website2/pull/3) in [ZYR0Z/website2](https://github.com/ZYR0Z/website2) <br>
-5. ❌ Closed PR [#2](https://github.com/ZYR0Z/website2/pull/2) in [ZYR0Z/website2](https://github.com/ZYR0Z/website2) <br>
+1. 🎉 Merged PR [#4](https://github.com/ZYR0Z/website2/pull/4) in [ZYR0Z/website2](https://github.com/ZYR0Z/website2)
+2. 💪 Opened PR [#4](https://github.com/ZYR0Z/website2/pull/4) in [ZYR0Z/website2](https://github.com/ZYR0Z/website2)
+3. 🎉 Merged PR [#3](https://github.com/ZYR0Z/website2/pull/3) in [ZYR0Z/website2](https://github.com/ZYR0Z/website2)
+4. 💪 Opened PR [#3](https://github.com/ZYR0Z/website2/pull/3) in [ZYR0Z/website2](https://github.com/ZYR0Z/website2)
+5. ❌ Closed PR [#2](https://github.com/ZYR0Z/website2/pull/2) in [ZYR0Z/website2](https://github.com/ZYR0Z/website2)
     <!--END_SECTION:activity-->
 </details>
  
