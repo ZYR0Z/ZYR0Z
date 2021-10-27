@@ -18,11 +18,11 @@
 <details>
   <summary>⚡ Last GitHub Activity</summary>
     <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1913](https://github.com/Automattic/node-canvas/issues/1913) in [Automattic/node-canvas](https://github.com/Automattic/node-canvas)
-2. 🎉 Merged PR [#4](https://github.com/ZYR0Z/website2/pull/4) in [ZYR0Z/website2](https://github.com/ZYR0Z/website2)
-3. 💪 Opened PR [#4](https://github.com/ZYR0Z/website2/pull/4) in [ZYR0Z/website2](https://github.com/ZYR0Z/website2)
-4. 🎉 Merged PR [#3](https://github.com/ZYR0Z/website2/pull/3) in [ZYR0Z/website2](https://github.com/ZYR0Z/website2)
-5. 💪 Opened PR [#3](https://github.com/ZYR0Z/website2/pull/3) in [ZYR0Z/website2](https://github.com/ZYR0Z/website2)
+1. ❗️ Closed issue [#1913](https://github.com/Automattic/node-canvas/issues/1913) in [Automattic/node-canvas](https://github.com/Automattic/node-canvas)
+2. ❗️ Opened issue [#1913](https://github.com/Automattic/node-canvas/issues/1913) in [Automattic/node-canvas](https://github.com/Automattic/node-canvas)
+3. 🎉 Merged PR [#4](https://github.com/ZYR0Z/website2/pull/4) in [ZYR0Z/website2](https://github.com/ZYR0Z/website2)
+4. 💪 Opened PR [#4](https://github.com/ZYR0Z/website2/pull/4) in [ZYR0Z/website2](https://github.com/ZYR0Z/website2)
+5. 🎉 Merged PR [#3](https://github.com/ZYR0Z/website2/pull/3) in [ZYR0Z/website2](https://github.com/ZYR0Z/website2)
     <!--END_SECTION:activity-->
 </details>
  
